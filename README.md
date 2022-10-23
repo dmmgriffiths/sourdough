@@ -31,7 +31,7 @@ Put an elastic band at the level of the fed starter (after you've mixed it up). 
 3. Coat a 9x13in pan generously with butter
 4. With oiled hands, transfer the dough to the pan. Stretch it out a bit, it will fill in the rest on the next rise.
 5. When risen and puffy (overnight), preheat the oven to 410F and:
-- Dimple all over by pressing at fingers all the way to the bottom.
+- Dimple all over by pressing wet fingers all the way to the bottom.
 - Pour a thin layer of olive oil over the top. The dimples should have some olive oil in, but not be full.
 - Sprinkle with sea salt 
 - Add fresh rosemary or sage leaves all over.
