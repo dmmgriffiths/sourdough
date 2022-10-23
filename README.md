@@ -18,11 +18,13 @@ Put an elastic band at the level of the fed starter (after you've mixed it up). 
 
 ## Foccaccia 
 
-`390g water`
-`50g starter`
-`500g white flour`
-`50g whole wheat flour`
-`7g salt`
+```
+390g water
+50g starter
+450g white flour
+50g whole wheat flour
+7g salt
+```
 
 1. Mix all ingredients together. Wait 30 mins.
 2. Add 30g olive oil on top, then stretch and fold. Wait ~3 hours.
