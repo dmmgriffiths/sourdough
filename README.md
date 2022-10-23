@@ -16,7 +16,7 @@ Keep in the fridge, about 100g in a large glass jar. Feed about 4 hours before y
 
 Put an elastic band at the level of the fed starter (after you've mixed it up). It's ready to use when doubled in size and bubbly. 
 
-## Foccaccia 
+## Focaccia 
 
 ```
 390g water
