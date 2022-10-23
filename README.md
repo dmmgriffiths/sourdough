@@ -10,7 +10,7 @@ You need a strong starter for this whole gig to work. I would recommend just get
 
 ### Feeding
 
-Keep it in your fridge, about 100g in a large glass jar. Feed it about 4 hours before you need it with the weight required in the recipe.
+Keep in the fridge, about 100g in a large glass jar. Feed about 4 hours before you need it with the weight required in the recipe.
 
 `50g starter = 25g flour + 25g water`
 
@@ -18,14 +18,14 @@ Put an elastic band at the level of the fed starter (after you've mixed it up). 
 
 ## Foccaccia 
 
-390g water
-50g starter
-500g white flour
-50g whole wheat flour
-7g salt
+`390g water`
+`50g starter`
+`500g white flour`
+`50g whole wheat flour`
+`7g salt`
 
 1. Mix all ingredients together. Wait 30 mins.
-2. Add 30g olive oil in top, then stretch and fold. Wait ~3 hours.
+2. Add 30g olive oil on top, then stretch and fold. Wait ~3 hours.
 3. Coat a 9x13in pan generously with butter
 4. With oiled hands, transfer the dough to the pan. Stretch it out a bit, it will fill in the rest on the next rise.
 5. When risen and puffy (overnight), preheat the oven to 410F and:
