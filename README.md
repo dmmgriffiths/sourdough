@@ -68,9 +68,9 @@ texture.
 1. 10pm: Feed the starter
 2. 7am: Mix all ingredients together. Wait 30 mins.
 3. 7.30: Stretch and fold. 
-3. 3pm: 
-4. Stretch and fold, then transfer the dough to the pan.
-5. When risen to just below the rim (overnight), preheat the oven to 430F.
+4. 4pm: Dump onto a work surface and sprinkle with flour, form into two balls with a dough scraper and turning motion (reference). 
+5. 5pm: Preheat oven to 475°F. Heavily dust two sheet pans with cornmeal. Flour the top of the dough and worksurface. Flip the dough onto the floured worksurface. Stretch out and put on sheet pans. Cover with tomato sauce, salt and pepper. Bake for 6 minutes.
+6. Add whatever toppings you like! Then bake for 9 minutes. Dinner time!
 
 
 
