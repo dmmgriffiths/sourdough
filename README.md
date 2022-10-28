@@ -53,5 +53,24 @@ Put an elastic band at the level of the fed starter (after you've mixed it up). 
 5. When risen to just below the rim (overnight), preheat the oven to 430F.
 6. Put in the oven, and reduce the temperature to 380F. Cook for 50 minutes. Store in a plasic bag to keep it soft.
 
+texture. 
+
+## Pizza
+
+```
+385g water
+30g olive oil
+50g starter
+30g whole wheat flour 
+470g white flour
+7g salt
+```
+1. 10pm: Feed the starter
+2. 7am: Mix all ingredients together. Wait 30 mins.
+3. 7.30: Stretch and fold. 
+3. 3pm: 
+4. Stretch and fold, then transfer the dough to the pan.
+5. When risen to just below the rim (overnight), preheat the oven to 430F.
+
 
 
