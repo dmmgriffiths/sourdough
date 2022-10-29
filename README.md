@@ -1,3 +1,5 @@
+![Sliced boule](https://github.com/dmmgriffiths/sourdough/blob/0667c06fe7867e488f940087c1353e8ba1df016a/71A7A20F-0ADD-4B87-A81D-6381EA637AC6.jpeg)
+
 # Sourdough
 
 I started making sourdough April 2020 like everyone else!
