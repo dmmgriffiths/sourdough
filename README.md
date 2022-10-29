@@ -86,6 +86,6 @@ texture.
 1. Mix all ingredients together. Wait 30 mins.
 2. Stretch and fold. Wait ~12 hours (overnight).
 3. Preheat the oven to 410F. Line a sheet pan with parchment paper and sprinkle with flour.
-4. Sprinkle a work surface generously with flour. Dump out the dough onto the flour. Stretch or and fold in half. Wait 10 mins while oven heats.
+4. Sprinkle a work surface generously with flour. Dump out the dough onto the flour. Stretch out and fold in half. Wait 10 mins while oven heats.
 5. With a bench scraper, cut the dough into two halves. Cut in the direction you stretched the dough. Stretch each half in the same direction while twisting, and transfer to the baking sheet. Sprinkle the top with thyme leaves.
 6. Bake for 33 minutes. Enjoy same day.
