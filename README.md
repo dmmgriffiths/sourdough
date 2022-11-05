@@ -32,7 +32,7 @@ Put an elastic band at the level of the fed starter (after you've mixed it up). 
 2. Add 30g olive oil on top, then stretch and fold. Wait ~3 hours.
 3. Coat a 9x13in pan generously with butter.
 4. With oiled hands, transfer the dough to the pan. Stretch it out a bit, it will fill in the rest on the next rise.
-5. When risen and puffy (overnight), preheat the oven to 410F and:
+5. When risen and puffy (overnight), preheat the oven to 410°F and:
 - Dimple all over by pressing wet fingers all the way to the bottom.
 - Pour a thin layer of olive oil over the top. The dimples should have some olive oil in, but not be full.
 - Sprinkle with sea salt 
@@ -52,8 +52,8 @@ Put an elastic band at the level of the fed starter (after you've mixed it up). 
 2. Stretch and fold. Wait ~3 hours.
 3. Coat a 2lb loaf pan with butter.
 4. Stretch and fold, then transfer the dough to the pan.
-5. When risen to just below the rim (overnight), preheat the oven to 430F.
-6. Put in the oven, and reduce the temperature to 380F. Cook for 50 minutes. Store in a plasic bag to keep it soft.
+5. When risen to just below the rim (overnight), preheat the oven to 430°F.
+6. Put in the oven, and reduce the temperature to 380°F. Cook for 50 minutes. Store in a plasic bag to keep it soft.
 
 texture. 
 
@@ -87,10 +87,11 @@ texture.
 
 1. Mix all ingredients together. Wait 30 mins.
 2. Stretch and fold. Wait ~12 hours (overnight).
-3. Preheat the oven to 410F. Line a sheet pan with parchment paper and sprinkle with flour.
+3. Preheat the oven to 410°F. Line a sheet pan with parchment paper and sprinkle with flour.
 4. Sprinkle a work surface generously with flour. Dump out the dough onto the flour. Stretch out and fold in half. Wait 10 mins while oven heats.
 5. With a bench scraper, cut the dough into two halves. Cut in the direction you stretched the dough. Stretch each half in the same direction while twisting, and transfer to the baking sheet. Sprinkle the top with thyme leaves.
 6. Bake for 33 minutes. Enjoy same day.
+
 
 ## Boule 
 
@@ -103,9 +104,9 @@ texture.
 ```
 
 1. Mix all ingredients together. Wait 30 mins.
-2. Stretch and fold. Wait ~6 hours until you have good bubbles.
-3. 
-3. Preheat the oven to 500F
-4. Sprinkle a work surface generously with flour. Dump out the dough onto the flour. Stretch out and fold in half. Wait 10 mins while oven heats.
-5. With a bench scraper, cut the dough into two halves. Cut in the direction you stretched the dough. Stretch each half in the same direction while twisting, and transfer to the baking sheet. Sprinkle the top with thyme leaves.
-6. Bake for 33 minutes. Enjoy same day.
+2. Stretch and fold. Wait ~6 hours until you have lots of bubbles and some volume.
+3. Transfer to a work surface and sprinkle with flour. Twist in a circular motion with a bench scaper to tighten up the ball. Wait for 30 minutes.
+4. Shape and move to a banneton. Place in the fridge for ~12 hrs.
+5. Preheat the oven to 500°F.
+6. Transfer to a parchement paper, score and bake at 500°F for 30 minutes, then at 440°F for 20 minutes.
+7. Enjoy over the next several days.
