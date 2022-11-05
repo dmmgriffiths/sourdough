@@ -53,9 +53,7 @@ Put an elastic band at the level of the fed starter (after you've mixed it up). 
 3. Coat a 2lb loaf pan with butter.
 4. Stretch and fold, then transfer the dough to the pan.
 5. When risen to just below the rim (overnight), preheat the oven to 430°F.
-6. Put in the oven, and reduce the temperature to 380°F. Cook for 50 minutes. Store in a plasic bag to keep it soft.
-
-texture. 
+6. Put in the oven, and reduce the temperature to 380°F. Cook for 50 minutes. Store in a plasic bag to keep it soft texture. 
 
 ## Pizza
 
