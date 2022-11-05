@@ -103,8 +103,8 @@ Put an elastic band at the level of the fed starter (after you've mixed it up). 
 
 1. Mix all ingredients together. Wait 30 mins.
 2. Stretch and fold. Wait ~6 hours until you have lots of bubbles and some volume.
-3. Transfer to a work surface and sprinkle with flour. Twist in a circular motion with a bench scaper to tighten up the ball. Wait for 30 minutes.
-4. Shape and move to a banneton. Place in the fridge for ~12 hrs.
+3. Transfer to a work surface and sprinkle with flour. [Preshape](https://www.facebook.com/jamieoliver/videos/how-to-make-sourdough-jamie-oliver/573982206589391/?t=260) - twist in a circular motion with a bench scaper to tighten up the ball. Wait for 30 minutes.
+4. [Shape](https://www.facebook.com/jamieoliver/videos/how-to-make-sourdough-jamie-oliver/573982206589391/?t=285) and move to a banneton. Place in the fridge for ~12 hrs.
 5. Preheat the oven to 500°F.
 6. Transfer to a parchement paper, score and bake at 500°F for 30 minutes, then at 440°F for 20 minutes.
 7. Enjoy over the next several days.
