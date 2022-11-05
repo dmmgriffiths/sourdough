@@ -91,3 +91,21 @@ texture.
 4. Sprinkle a work surface generously with flour. Dump out the dough onto the flour. Stretch out and fold in half. Wait 10 mins while oven heats.
 5. With a bench scraper, cut the dough into two halves. Cut in the direction you stretched the dough. Stretch each half in the same direction while twisting, and transfer to the baking sheet. Sprinkle the top with thyme leaves.
 6. Bake for 33 minutes. Enjoy same day.
+
+## Boule 
+
+```
+390g water
+50g starter
+420g white flour
+80g whole wheat flour
+7g salt
+```
+
+1. Mix all ingredients together. Wait 30 mins.
+2. Stretch and fold. Wait ~6 hours until you have good bubbles.
+3. 
+3. Preheat the oven to 500F
+4. Sprinkle a work surface generously with flour. Dump out the dough onto the flour. Stretch out and fold in half. Wait 10 mins while oven heats.
+5. With a bench scraper, cut the dough into two halves. Cut in the direction you stretched the dough. Stretch each half in the same direction while twisting, and transfer to the baking sheet. Sprinkle the top with thyme leaves.
+6. Bake for 33 minutes. Enjoy same day.
