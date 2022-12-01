@@ -109,7 +109,7 @@ Put an elastic band at the level of the fed starter (after you've mixed it up). 
 6. Transfer to a parchement paper, score and bake at 500°F for 30 minutes, then remove the lid and bake at 440°F for 20 minutes.
 7. Enjoy over the next several days.
 
-## Callah
+## Challah
 
 ```
 300g water
