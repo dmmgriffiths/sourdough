@@ -53,7 +53,7 @@ Put an elastic band at the level of the fed starter (after you've mixed it up). 
 3. Coat a 2lb loaf pan with butter.
 4. Stretch and fold, then transfer the dough to the pan.
 5. When risen to just below the rim (overnight), preheat the oven to 430°F.
-6. Put in the oven, and reduce the temperature to 380°F. Cook for 50 minutes. Store in a plasic bag to keep it soft texture. 
+6. Put in the oven, and reduce the temperature to 380°F. Cook for 50 minutes. Store in a plasic bag to keep its soft texture. 
 
 ## Pizza
 
@@ -108,3 +108,21 @@ Put an elastic band at the level of the fed starter (after you've mixed it up). 
 5. Preheat the oven to 500°F.
 6. Transfer to a parchement paper, score and bake at 500°F for 30 minutes, then remove the lid and bake at 440°F for 20 minutes.
 7. Enjoy over the next several days.
+
+## Callah
+
+```
+300g water
+1 egg (about 50g)
+20g honey
+50g starter
+500g white flour
+7g salt
+```
+
+1. Mix all ingredients together. Wait 30 mins.
+2. Stretch and fold. Wait ~5 hours.
+3. Line a sheet pan with parchment paper.
+4. Divide into 3 and braid. Form into a circle and place on the pan.
+5. When risen again, preheat the oven to 430°F?
+6. Put in the oven, and reduce the temperature to 380°F? Cook for 40 minutes? Store in a plasic bag to keep its soft texture. 
