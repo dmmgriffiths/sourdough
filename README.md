@@ -124,5 +124,7 @@ Put an elastic band at the level of the fed starter (after you've mixed it up). 
 2. Stretch and fold. Wait ~5 hours.
 3. Line a sheet pan with parchment paper.
 4. Divide into 3 and braid. Form into a circle and place on the pan.
-5. When risen again, preheat the oven to 430°F?
-6. Put in the oven, and reduce the temperature to 380°F? Cook for 40 minutes? Store in a plasic bag to keep its soft texture. 
+5. When risen again, preheat the oven to 370F?
+6. Cook for 40 minutes? Store in a plasic bag to keep its soft texture. 
+
+Next time: try an egg wash. Add canola oil to ingredients, maybe 20g. Long rise after shaping. 
