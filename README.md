@@ -112,9 +112,10 @@ Put an elastic band at the level of the fed starter (after you've mixed it up). 
 ## Challah
 
 ```
-300g water
+280g water
 1 egg (about 50g)
 20g honey
+20g canola oil
 50g starter
 500g white flour
 7g salt
@@ -123,7 +124,7 @@ Put an elastic band at the level of the fed starter (after you've mixed it up). 
 1. Mix all ingredients together. Wait 30 mins.
 2. Stretch and fold. Wait ~5 hours.
 3. Line a sheet pan with parchment paper.
-4. Divide into 3 and braid. Form into a circle and place on the pan.
+4. Divide into 7 and braid. Over 1, under 2 each time. Tuck ends under and place on the pan.
 5. When risen again, preheat the oven to 370F?
 6. Cook for 40 minutes? Store in a plasic bag to keep its soft texture. 
 
